@@ -1,0 +1,15 @@
+D:\Documents\Downloads\DZ1\GBDz1.6\bin\Debug\net6.0\GBDz1.6.exe
+D:\Documents\Downloads\DZ1\GBDz1.6\bin\Debug\net6.0\GBDz1.6.deps.json
+D:\Documents\Downloads\DZ1\GBDz1.6\bin\Debug\net6.0\GBDz1.6.runtimeconfig.json
+D:\Documents\Downloads\DZ1\GBDz1.6\bin\Debug\net6.0\GBDz1.6.dll
+D:\Documents\Downloads\DZ1\GBDz1.6\bin\Debug\net6.0\GBDz1.6.pdb
+D:\Documents\Downloads\DZ1\GBDz1.6\obj\Debug\net6.0\GBDz1.6.csproj.AssemblyReference.cache
+D:\Documents\Downloads\DZ1\GBDz1.6\obj\Debug\net6.0\GBDz1.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Downloads\DZ1\GBDz1.6\obj\Debug\net6.0\GBDz1.6.AssemblyInfoInputs.cache
+D:\Documents\Downloads\DZ1\GBDz1.6\obj\Debug\net6.0\GBDz1.6.AssemblyInfo.cs
+D:\Documents\Downloads\DZ1\GBDz1.6\obj\Debug\net6.0\GBDz1.6.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\DZ1\GBDz1.6\obj\Debug\net6.0\GBDz1.6.dll
+D:\Documents\Downloads\DZ1\GBDz1.6\obj\Debug\net6.0\refint\GBDz1.6.dll
+D:\Documents\Downloads\DZ1\GBDz1.6\obj\Debug\net6.0\GBDz1.6.pdb
+D:\Documents\Downloads\DZ1\GBDz1.6\obj\Debug\net6.0\GBDz1.6.genruntimeconfig.cache
+D:\Documents\Downloads\DZ1\GBDz1.6\obj\Debug\net6.0\ref\GBDz1.6.dll

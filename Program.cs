@@ -1,4 +1,4 @@
-Console.WriteLine("Введите а="); int num = Convert.ToInt32(Console.ReadLine()); 
+﻿Console.WriteLine("Введите а="); int num = Convert.ToInt32(Console.ReadLine()); 
 
 if (num % 2 == 0)
  {
